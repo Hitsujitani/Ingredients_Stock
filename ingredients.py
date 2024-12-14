@@ -58,7 +58,7 @@ labels = {
           }
 
 # 画像ファイルのベースパス
-image_base_path = "/Users/switch/Desktop/MyPython"
+# image_base_path = "/Users/switch/Desktop/MyPython"
 
 ingredient_images = {
     "ネギ": os.path.join(image_base_path, "leek.png"),
